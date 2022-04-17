@@ -4,7 +4,7 @@
 # Sobre o Projeto
 ### <em>Esse gerenciador de eventos Full Stack Web foi desenvolvido durante o curso de laravel do canal Hora de Codar.<br>
   https://www.youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG
-### O projeto consciste em um sistema de gerenciamento de eventos, onde um usuário cadastrado e logado pode criar seus próprios eventos ou participar de eventos de terceiros, por fim, o usuário tem acesso a uma dashboard onde é possível acompanhar e alterar as informações dos eventos criado por ele, e visualizar quantos usuários já confirmaram presença no evento.  </em>
+### O projeto consciste em um sistema de gerenciamento de eventos, onde um usuário cadastrado e logado pode criar seus próprios eventos ou participar de eventos de terceiros, por fim, o usuário tem acesso a uma dashboard onde é possível acompanhar e alterar as informações dos eventos criado por ele, e visualizar quantos usuários já confirmaram presença no seu evento.  </em>
 <br>
 
 
